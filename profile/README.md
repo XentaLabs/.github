@@ -1,6 +1,6 @@
-## Connecting sensors
+## Welcome!
 
-
+At XENTA Labs we believe that trustworthy systems comes from transparent systems. Stay tuned.
 
 <!--
 
